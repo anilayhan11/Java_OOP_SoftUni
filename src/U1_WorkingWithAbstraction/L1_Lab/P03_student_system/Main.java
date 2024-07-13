@@ -1,4 +1,4 @@
-package U1_WorkingWithAbstraction.L1_Lab.P03_StudentSystem;
+package U1_WorkingWithAbstraction.L1_Lab.P03_student_system;
 
 import java.util.Scanner;
 
